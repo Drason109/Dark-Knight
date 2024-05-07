@@ -93,7 +93,7 @@
     {"name":"spr_baddie_attack_side","order":2,"path":"sprites/spr_baddie_attack_side/spr_baddie_attack_side.yy",},
     {"name":"spr_player_walk_side","order":2,"path":"sprites/spr_player_walk_side/spr_player_walk_side.yy",},
     {"name":"fnt_button","order":1,"path":"fonts/fnt_button/fnt_button.yy",},
-    {"name":"spr_player_walk_up","order":3,"path":"sprites/spr_player_walk_up/spr_player_walk_up.yy",},
+    {"name":"spr_player_jump","order":3,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
     {"name":"obj_chest","order":4,"path":"objects/obj_chest/obj_chest.yy",},
     {"name":"TileSet4","order":4,"path":"tilesets/TileSet4/TileSet4.yy",},
     {"name":"spr_entrance_particle","order":8,"path":"sprites/spr_entrance_particle/spr_entrance_particle.yy",},

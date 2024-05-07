@@ -14,5 +14,5 @@ y += -move_speed;
 /// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "spr_player_walk_up"
 /// @DnDSaveInfo : "spriteind" "spr_player_walk_up"
-sprite_index = spr_player_walk_up;
+sprite_index = spr_player_jump;
 image_index += 0;
